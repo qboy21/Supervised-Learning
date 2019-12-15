@@ -1,6 +1,8 @@
 # Supervised-Learning
 Analysis of LendingClub Loans
+
 Purpose
+
 Goal
 
 Improve the gross margin of LendingClub through the identification of problematic loans at the time of issuance for further analysis and/or allocation to securitization facilities.
